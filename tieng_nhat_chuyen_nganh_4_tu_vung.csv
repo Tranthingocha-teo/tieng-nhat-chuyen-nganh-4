@@ -1,0 +1,403 @@
+﻿Unit,Phần,No.,Từ vựng (語彙),Cách đọc (読み方),Nghĩa tiếng Việt,Nghĩa tiếng Anh
+U9,Bài đọc (読み物),1,単体テスト,たんたいテスト,Kiểm thử đơn vị,unit testing
+U9,Bài đọc (読み物),2,動作,どうさ,"Động tác, hoạt động (của máy móc)",operation
+U9,Bài đọc (読み物),3,あくまで,あくまで,"Đến cùng, cuối cùng",strictly
+U9,Bài đọc (読み物),4,結合テスト,けつごうテスト,Kiểm thử tích hợp,integration testing
+U9,Bài đọc (読み物),5,条件分岐,じょうけんぶんき,Lệnh rẽ nhánh điều kiện ( lệnh if….),conditional branching
+U9,Bài đọc (読み物),6,値,あたい,Giá trị,value
+U9,Bài đọc (読み物),7,ループ処理,ループしょり,Xử lý lặp (vòng lặp),loop processing
+U9,Bài đọc (読み物),8,ループ離脱,ループりだつ,Thoát khỏi vòng lặp,loop break
+U9,Bài đọc (読み物),9,発見,はっけん,Phát hiện,detection
+U9,Bài đọc (読み物),10,件数,けんすう,Số lượng,number of items
+U9,Bài đọc (読み物),11,単純,たんじゅん,Đơn giản,simple
+U9,Bài đọc (読み物),12,コピペミス,コピペミス,Lỗi copy-paste,copy-paste mistake
+U9,Bài đọc (読み物),13,変数名,へんすうめい,Tên biến,variable name
+U9,Bài đọc (読み物),14,構文誤り,こうぶんあやまり,Lỗi cú pháp,syntax error
+U9,Bài đọc (読み物),15,型変数,がたへんすう,Kiểu biến,variable type
+U9,Bài đọc (読み物),16,比較,ひかく,So sánh,comparison
+U9,Bài đọc (読み物),17,無限ループ,むげんループ,Vòng lặp vô hạn,infinite loop
+U9,Bài đọc (読み物),18,取り除く,とりのぞく,"Loại bỏ, gỡ bỏ",remove
+U9,Bài đọc (読み物),19,通過する,つうかする,"Đi qua, vượt qua",pass through
+U9,Bài đọc (読み物),20,カバレッジ率,カバレッジりつ,"Tỷ lệ bao phủ, Tỷ lệ mã được kiểm thử",coverage rate
+U9,Bài đọc (読み物),21,なるべく,なるべく,Cố gắng hết sức,as much as possible
+U9,Bài đọc (読み物),22,例外,れいがい,Ngoại lệ,exception
+U9,Bài đọc (読み物),23,大抵,たいてい,"Thường là, phần lớn",usually
+U9,Bài đọc (読み物),24,示す,しめす,"Chỉ ra, thể hiện",demonstrate
+U9,Bài đọc (読み物),25,エビデンス,エビデンス,"Bằng chứng, chứng cứ, tài liệu chứng minh",evidence
+U9,Bài đọc (読み物),26,予め,あらかじめ,Trước (làm gì đó trước),beforehand
+U9,Bài đọc (読み物),26,駆動,くどう,"Thúc đẩy, điều khiển",driving
+U9,Bài đọc (読み物),27,普及,ふきゅう,"Phổ biến, phổ cập",dissemination
+U9,Bài đọc (読み物),28,用いる,もちいる,"Sử dụng, áp dụng",use
+U9,Bài đọc (読み物),29,簡易化,かんいか,Đơn giản hóa,simplification
+U9,Bài đọc (読み物),30,傾向,けいこう,"Xu hướng, khuynh hướng",tendency
+U9,Bài đọc (読み物),31,提案する,ていあんする,"Đề xuất, gợi ý",propose
+U9,Bài đọc (読み物),32,追われる,おわれる,"Bị đuổi kịp, bị thúc ép",be pursued
+U9,Hội thoại mẫu (モデル会話),1,売上,うりあげ,Doanh thu,"sales, revenue"
+U9,Hội thoại mẫu (モデル会話),2,結合テスト,けつごうテスト,Kiểm thử tích hợp,"combination test, integration test"
+U9,Hội thoại mẫu (モデル会話),3,作成,さくせい,"Sản xuất, tạo ra","creation, making"
+U9,Hội thoại mẫu (モデル会話),4,出荷,しゅっか,Xuất hàng,"shipping, delivery"
+U9,Hội thoại mẫu (モデル会話),5,処理,しょり,Xử lý,processing
+U9,Hội thoại mẫu (モデル会話),6,損益,そんえき,Lỗ lãi,profit and loss
+U9,Hội thoại mẫu (モデル会話),7,統計,とうけい,Thống kê,statistics
+U9,Hội thoại mẫu (モデル会話),8,納入,のうにゅう,Giao hàng,"delivery, supply"
+U9,Hội thoại mẫu (モデル会話),9,編集,へんしゅう,Chỉnh sửa,editing
+U9,Hội thoại mẫu (モデル会話),10,返品,へんぴん,Trả hàng,"return, refund"
+U9,Hội thoại mẫu (モデル会話),11,予定どおり,よていどおり,Theo như dự định,as scheduled
+U9,Hội thoại mẫu (モデル会話),12,体系,たいけい,Hệ thống,"system, structure"
+U9,Hội thoại mẫu (モデル会話),13,貸借,たいしゃく,"Khoản vay khoản nợ, nợ và có (kế toán)",debit and credit
+U9,Hội thoại mẫu (モデル会話),14,対照,たいしょう,"Tương phản, so sánh đối chiếu","comparison, contrast"
+U9,Hội thoại mẫu (モデル会話),15,アマゾン,アマゾン,Amazon,Amazon
+U9,Hội thoại mẫu (モデル会話),16,インフォシーク,インフォシーク,Infoseek,Infoseek
+U9,Hội thoại mẫu (モデル会話),17,グーグル,グーグル,Google,Google
+U9,Hội thoại mẫu (モデル会話),18,クリアケース,クリアケース,Clearcase,ClearCase
+U9,Hội thoại mẫu (モデル会話),19,コミット,コミット,Commit,commit
+U9,Hội thoại mẫu (モデル会話),20,サブバージョン,サブバージョン,Subversion,Subversion
+U9,Hội thoại mẫu (モデル会話),21,ソースコード,ソースコード,Mã nguồn,source code
+U9,Hội thoại mẫu (モデル会話),22,バージョン,バージョン,Phiên bản,version
+U9,Hội thoại mẫu (モデル会話),23,バージョン管理システム,バージョンかんりシステム,Hệ thống quản lý phiên bản,version control system
+U9,Hội thoại mẫu (モデル会話),24,ビットキーパー,ビットキーパー,BitKeeper,BitKeeper
+U9,Hội thoại mẫu (モデル会話),25,ミス,ミス,Lỗi,"mistake, error"
+U9,Hội thoại mẫu (モデル会話),26,ヤフー,ヤフー,Yahoo,Yahoo
+U9,Hội thoại mẫu (モデル会話),27,アクセサリ,アクセサリ,Phụ kiện,accessory
+U9,Hội thoại mẫu (モデル会話),28,CVS,CVS,CVS,CVS
+U9,Hội thoại mẫu (モデル会話),29,スターチーム,スターチーム,Star Team,StarTeam
+U9,Hội thoại mẫu (モデル会話),30,（～に）依存する,～にいぞんする,Phụ thuộc vào,"depend on, rely on"
+U9,Hội thoại mẫu (モデル会話),31,お疲れ様でした,おつかれさまでした,Cảm ơn bạn đã làm việc chăm chỉ,Thank you for your hard work
+U9,Hội thoại mẫu (モデル会話),32,重要,じゅうよう,Quan trọng,important
+U10,Bài đọc (読み物),1,進捗,しんちょく,tiến độ,progress
+U10,Bài đọc (読み物),2,主流,しゅりゅう,xu hướng chính,mainstream
+U10,Bài đọc (読み物),3,アジャイル,あじゃいる,linh hoạt,agile
+U10,Bài đọc (読み物),4,改善策,かいぜんさく,biện pháp cải thiện,improvement measures
+U10,Bài đọc (読み物),5,助言,じょげん,lời khuyên,advice
+U10,Bài đọc (読み物),6,ビジネスロジック,びじねすろじっく,logic kinh doanh,business logic
+U10,Bài đọc (読み物),7,消化,しょうか,tiêu hóa,digestion
+U10,Bài đọc (読み物),8,プラグイン,ぷらぐいん,plugin,plugin
+U10,Bài đọc (読み物),9,スクロール,すくろーる,cuộn trang,scroll
+U10,Bài đọc (読み物),10,不足,ふそく,thiếu hụt,shortage
+U10,Bài đọc (読み物),11,嘘,うそ,nói dối,lie
+U10,Bài đọc (読み物),12,偽り,いつわり,sự giả dối,falsehood
+U10,Bài đọc (読み物),13,割り当てる,わりあてる,phân bổ,allocate
+U10,Hội thoại mẫu (モデル会話),1,客観的,きゃくかんてき,Tính khách quan,objective
+U10,Hội thoại mẫu (モデル会話),2,参考書,さんこうしょ,Tài liệu tham khảo,reference manual
+U10,Hội thoại mẫu (モデル会話),3,試験項目,しけんこうもく,Mục kiểm thử,test item
+U10,Hội thoại mẫu (モデル会話),4,進捗,しんちょく,Tiến độ công việc,progress
+U10,Hội thoại mẫu (モデル会話),5,進捗度,しんちょくど,Mức tiến trình,progress rate
+U10,Hội thoại mẫu (モデル会話),6,その調子で,そのちょうしで,Với mức độ đó,keep up the good work
+U10,Hội thoại mẫu (モデル会話),7,段階,だんかい,Giai đoạn,"stage, phase"
+U10,Hội thoại mẫu (モデル会話),8,～割,～わり,Phần trăm,~ percent
+U10,Hội thoại mẫu (モデル会話),9,ウィンドウ,ウィンドウ,Window,window
+U10,Hội thoại mẫu (モデル会話),10,エディタウインドウ,エディタウインドウ,Cửa sổ soạn thảo,editor window
+U10,Hội thoại mẫu (モデル会話),11,コーディング,コーディング,Lập trình,coding
+U10,Hội thoại mẫu (モデル会話),12,コンパイル,コンパイル,Biên dịch code,compile
+U10,Hội thoại mẫu (モデル会話),13,ジェービルダー,ジェービルダー,JBuider,JBuilder
+U10,Hội thoại mẫu (モデル会話),14,ネットビーンズ,ネットビーンズ,Netbeans,NetBeans
+U10,Hội thoại mẫu (モデル会話),15,バグ,バグ,Lỗi,bug
+U10,Hội thoại mẫu (モデル会話),16,ビジュアルスタジオ,ビジュアルスタジオ,Visual studio,Visual Studio
+U10,Hội thoại mẫu (モデル会話),17,プラグイン,プラグイン,Plug-in,plugin
+U10,Hội thoại mẫu (モデル会話),18,メニュー,メニュー,"Menu, danh mục",menu
+U10,Hội thoại mẫu (モデル会話),19,イーマックス,イーマックス,Emacs,Emacs
+U10,Hội thoại mẫu (モデル会話),20,コードウォリアー,コードウォリアー,Code warrior,CodeWarrior
+U10,Hội thoại mẫu (モデル会話),21,デルファイ,デルファイ,Delphi,Delphi
+U10,Hội thoại mẫu (モデル会話),22,ランタイム,ランタイム,Runtime,runtime
+U10,Hội thoại mẫu (モデル会話),23,落ちる,おちる,"Rớt ra, bị treo",crash
+U10,Hội thoại mẫu (モデル会話),24,外す,はずす,"Tháo bỏ, rời khỏi (chỗ ngồi)","remove, detach"
+U10,Hội thoại mẫu (モデル会話),25,落とす,おとす,Tắt nguồn,"drop, lower"
+U10,Hội thoại mẫu (モデル会話),26,(PCが)固まる,(PCが)かたまる,"Máy tính bị liệt, đơ","(PC) freeze, hang"
+U10,Hội thoại mẫu (モデル会話),27,重い,おもい,Máy tính chạy chậm,slowly
+U11,Bài đọc (読み物),1,遅延報告,ちえんほうこく,Báo cáo trễ,Delayed report
+U11,Bài đọc (読み物),2,速やかに,すみやかに,Ngay lập tức,Promptly
+U11,Bài đọc (読み物),3,様々,さまざま,Đa dạng,Various
+U11,Bài đọc (読み物),4,連携する,れんけいする,Hợp tác,Collaborate
+U11,Bài đọc (読み物),5,テストデータ,,Dữ liệu kiểm thử,Test data
+U11,Bài đọc (読み物),6,不足,ふそく,Thiếu hụt,Insufficiency
+U11,Bài đọc (読み物),7,なるべく,,Càng nhiều càng tốt,As much as possible
+U11,Bài đọc (読み物),8,ペース,,"Tốc độ, nhịp độ",Pace
+U11,Bài đọc (読み物),9,ただし,,Tuy nhiên,However
+U11,Bài đọc (読み物),10,プラットフォーム,,Nền tảng,Platform
+U11,Bài đọc (読み物),11,回避する,かいひする,Tránh,Avoid
+U11,Bài đọc (読み物),12,調査,ちょうさ,Điều tra,Investigation
+U11,Bài đọc (読み物),13,検討する,けんとうする,Xem xét,Consider
+U11,Bài đọc (読み物),14,正常,せいじょう,Bình thường,Normal
+U11,Bài đọc (読み物),15,取り戻す,とりもどす,Lấy lại,Retrieve
+U11,Bài đọc (読み物),16,提案する,ていあんする,Đề xuất,Propose
+U11,Bài đọc (読み物),17,追加する,ついかする,Thêm,Add
+U11,Bài đọc (読み物),18,最善,さいぜん,Tốt nhất,Best
+U11,Bài đọc (読み物),19,最悪,さいあく,Xấu nhất,Worst
+U11,Bài đọc (読み物),20,手段,しゅだん,Phương pháp,Means
+U11,Bài đọc (読み物),21,重要,じゅうよう,Quan trọng,Important
+U11,Bài đọc (読み物),22,余裕,よゆう,Dư dả,Margin
+U11,Bài đọc (読み物),23,限る,かぎる,Giới hạn,Limit
+U11,Bài đọc (読み物),24,気づく,きづく,Nhận thấy,Notice
+U11,Bài đọc (読み物),25,具合,ぐあい,Tình trạng,Condition
+U11,Bài đọc (読み物),26,影響する,えいきょうする,Ảnh hưởng,Influence
+U11,Bài đọc (読み物),27,対応する,たいおうする,Phản ứng,Correspond
+U11,Bài đọc (読み物),28,納期,のうき,Hạn chót,Deadline
+U11,Bài đọc (読み物),29,直前,ちょくぜん,Ngay trước,Just before
+U11,Bài đọc (読み物),30,明らか,あきらか,Rõ ràng,Clear
+U11,Bài đọc (読み物),31,取り返す,とりかえす,Khôi phục,Recover
+U11,Bài đọc (読み物),32,アピールする,,Kêu gọi,Appeal
+U11,Hội thoại mẫu (モデル会話),1,朝寝坊,あさねぼう,"Ngủ quên, ngủ nướng",Oversleep
+U11,Hội thoại mẫu (モデル会話),2,安全第一,あんぜんだいいち,An toàn là trên hết,Safety first
+U11,Hội thoại mẫu (モデル会話),3,依存先,いそんさき,"Nơi phụ thuộc, người phụ thuộc",Dependencies
+U11,Hội thoại mẫu (モデル会話),4,応用,おうよう,Ứng dụng,Application
+U11,Hội thoại mẫu (モデル会話),5,遅れ,おくれ,"Trễ, muộn",Delay
+U11,Hội thoại mẫu (モデル会話),6,気分転換,きぶんてんかん,"Thay đổi tâm trạng, đổi gió",Change of pace
+U11,Hội thoại mẫu (モデル会話),7,原因,げんいん,Nguyên nhân,Cause
+U11,Hội thoại mẫu (モデル会話),8,顧客第一,こきゃくだいいち,Khách hàng là trên hết/thượng đế,Customer first
+U11,Hội thoại mẫu (モデル会話),9,事故,じこ,Tai nạn,Accident
+U11,Hội thoại mẫu (モデル会話),10,しっかり,しっかり,"Chắc chắn, kỹ lưỡng",Adequately
+U11,Hội thoại mẫu (モデル会話),11,週末,しゅうまつ,Cuối tuần,Weekend
+U11,Hội thoại mẫu (モデル会話),12,増員,ぞういん,Tăng nhân sự,Increase in staff
+U11,Hội thoại mẫu (モデル会話),13,体調管理,たいちょうかんり,Quản lý sức khỏe,Keeping fit
+U11,Hội thoại mẫu (モデル会話),14,昼食,ちゅうしょく,Bữa trưa,Lunch
+U11,Hội thoại mẫu (モデル会話),15,土日,どにち,Thứ bảy và Chủ nhật,Saturday and Sunday
+U11,Hội thoại mẫu (モデル会話),16,要員,よういん,"Nhân sự quan trọng, nhân viên chủ chốt",Personnel
+U11,Hội thoại mẫu (モデル会話),17,休日出勤,きゅうじつしゅっきん,Đi làm vào ngày nghỉ,Working through the holidays
+U11,Hội thoại mẫu (モデル会話),18,インストール,インストール,Cài đặt,Install
+U11,Hội thoại mẫu (モデル会話),19,キーボード,キーボード,Bàn phím,Keyboard
+U11,Hội thoại mẫu (モデル会話),20,スタブ,スタブ,Stub (chương trình tạm thời),Stub
+U11,Hội thoại mẫu (モデル会話),21,ミドルウェア,ミドルウェア,Phần mềm trung gian,Middleware
+U11,Hội thoại mẫu (モデル会話),22,UML,ユーエムエル,Ngôn ngữ mô hình hóa thống nhất,Unified Modeling Language
+U11,Hội thoại mẫu (モデル会話),23,上がる,あがる,Hoàn thành,Complete
+U11,Hội thoại mẫu (モデル会話),24,延ばす,のばす,Kéo dài,Extend
+U11,Hội thoại mẫu (モデル会話),25,きつい,きつい,"Chặt chẽ, nghiêm khắc",Tight
+U12,Bài đọc (読み物),1,完了報告,かんりょうほうこく,Báo cáo hoàn thành,Completion report
+U12,Bài đọc (読み物),2,ソースプログラム,,Chương trình nguồn,Source program
+U12,Bài đọc (読み物),3,ロードモジュール,,Mô-đun nạp,Load module
+U12,Bài đọc (読み物),4,実行,じっこう,"Thực thi, tiến hành",Execution
+U12,Bài đọc (読み物),5,品質報告書,ひんしつほうこくしょ,Báo cáo chất lượng,Quality report
+U12,Bài đọc (読み物),6,揃う,そろう,"Sẵn sàng, hoàn tất, tập hợp","Be ready, be complete"
+U12,Bài đọc (読み物),7,進行,しんこう,"Tiến độ, tiến hành","Progress, advance"
+U12,Bài đọc (読み物),8,当初,とうしょ,"Ban đầu, lúc đầu","Initially, at first"
+U12,Bài đọc (読み物),9,依頼する,いらいする,"Yêu cầu, đề nghị","Request, ask for"
+U12,Bài đọc (読み物),10,支援,しえん,"Hỗ trợ, hỗ trợ","Support, assistance"
+U12,Bài đọc (読み物),11,複雑,ふくざつ,"Phức tạp, phức tạp","Complex, complicated"
+U12,Bài đọc (読み物),12,決定,けってい,"Quyết định, xác định","Decision, determine"
+U12,Bài đọc (読み物),13,同様,どうよう,"Tương tự, giống nhau","Similar, alike"
+U12,Bài đọc (読み物),14,残り,のこり,"Còn lại, phần còn lại","Remaining, rest"
+U12,Bài đọc (読み物),15,重大,じゅうだい,"Nghiêm trọng, đáng kể","Serious, significant"
+U12,Bài đọc (読み物),16,バッファ,,Bộ đệm,Buffer
+U12,Bài đọc (読み物),17,順調,じゅんちょう,"Thuận lợi, thuận lợi","Smooth, favorable"
+U12,Bài đọc (読み物),18,可能性,かのうせい,Khả năng,Possibility
+U12,Bài đọc (読み物),19,状態,じょうたい,"Trạng thái, điều kiện","State, condition"
+U12,Bài đọc (読み物),20,喜ぶ,よろこぶ,"Vui mừng, hài lòng","Be glad, be pleased"
+U12,Bài đọc (読み物),21,繰り返す,くりかえす,"Lặp lại, làm lại","Repeat, do again"
+U12,Bài đọc (読み物),22,身につける,みにつける,"Thu thập, học hỏi","Acquire, learn"
+U12,Hội thoại mẫu (モデル会話),1,在庫管理,ざいこかんり,Quản lý tồn kho,Inventory management
+U12,Hội thoại mẫu (モデル会話),2,仕入管理機能,しいれかんりきのう,Chức năng quản lý mua hàng,Purchasing management function
+U12,Hội thoại mẫu (モデル会話),3,成果物,せいかぶつ,Thành quả,Deliverable
+U12,Hội thoại mẫu (モデル会話),4,単体テスト仕様書,たんたいてすとしようしょ,Tài liệu đặc tả kiểm thử đơn vị,Unit Test Specifications
+U12,Hội thoại mẫu (モデル会話),5,提出,ていしゅつ,"Nộp, gửi",Submit
+U12,Hội thoại mẫu (モデル会話),6,テスト結果報告書,てすとけっかほうこくしょ,Bản báo cáo kết quả kiểm thử,Test Performance Report
+U12,Hội thoại mẫu (モデル会話),7,手元,てもと,Có sẵn trong tay,At hand
+U12,Hội thoại mẫu (モデル会話),8,店舗情報管理,てんぽじょうほうかんり,Quản lý thông tin cửa hàng,Retail information management
+U12,Hội thoại mẫu (モデル会話),9,見積依頼,みつもりいらい,Yêu cầu báo giá,Estimate request
+U12,Hội thoại mẫu (モデル会話),10,買掛金,かいかけきん,Nợ phải trả,Accounts payable
+U12,Hội thoại mẫu (モデル会話),11,会計管理,かいけいかんり,Quản lý kế toán,Accounting management
+U12,Hội thoại mẫu (モデル会話),12,販売管理,はんばいかんり,Quản lý bán hàng,Sales management
+U12,Hội thoại mẫu (モデル会話),13,バグ票,バグひょう,Bảng báo lỗi,Bug report
+U12,Hội thoại mẫu (モデル会話),14,コピーする,こぴーする,Sao chép,To copy
+U13,Bài đọc (読み物),1,結合テスト,けつごうテスト,Kiểm tra tích hợp,Integration testing
+U13,Bài đọc (読み物),2,機能間,きのうかん,Giữa các chức năng,Inter-function
+U13,Bài đọc (読み物),3,画面間,がめんかん,Giữa các màn hình,Inter-screen
+U13,Bài đọc (読み物),4,データ連携,でーたれんけい,Liên kết dữ liệu,Data integration
+U13,Bài đọc (読み物),5,以外,いがい,Ngoại trừ,Other than
+U13,Bài đọc (読み物),6,項目,こうもく,Mục,Item
+U13,Bài đọc (読み物),7,操作,そうさ,Thao tác,Operation
+U13,Bài đọc (読み物),8,思い込み,おもいこみ,"Giả định, niềm tin mãnh liệt, sự định kiến",Assumption
+U13,Bài đọc (読み物),9,イレギュラー,,Bất thường,Irregular
+U13,Bài đọc (読み物),10,第三者テスト,だいさんしゃテスト,Kiểm tra bởi bên thứ ba,Third-party testing
+U13,Bài đọc (読み物),11,スムーズに,,Một cách trôi chảy,Smoothly
+U13,Bài đọc (読み物),12,不具合,ふぐあい,"Lỗi, khuyết điểm, sự cố","Bug, defect"
+U13,Bài đọc (読み物),13,見つかる,みつかる,Được tìm thấy,To be found
+U13,Bài đọc (読み物),14,呼び出す,よびだす,Gọi,To invoke
+U13,Bài đọc (読み物),15,データ型,でーたがた,Kiểu dữ liệu,Data type
+U13,Bài đọc (読み物),16,引数,ひきすう,Đối số,Argument
+U13,Bài đọc (読み物),17,想定,そうてい,"Giả định, kỳ vọng","Assumption, expectation"
+U13,Bài đọc (読み物),18,対応もれ,たいおうもれ,Không đáp ứng đúng,Missed response
+U13,Bài đọc (読み物),19,正常,せいじょう,Bình thường,Normal
+U13,Bài đọc (読み物),20,詳細に,しょうさいに,Chi tiết,In detail
+U13,Bài đọc (読み物),21,画面ハードコピー,がめんはーどこぴー,Sao chụp màn hình,Screen hard copy
+U13,Bài đọc (読み物),22,箇所,かしょ,"Vị trí, nơi","Location, place"
+U13,Bài đọc (読み物),23,手順,てじゅん,"Thủ tục, bước","Procedure, steps"
+U13,Bài đọc (読み物),24,タイミング,,Thời điểm,Timing
+U13,Bài đọc (読み物),25,理解,りかい,Hiểu biết,Understanding
+U13,Hội thoại mẫu (モデル会話),1,売掛金,うりかけきん,Khoản phải thu (bên bán),Accounts Receivable
+U13,Hội thoại mẫu (モデル会話),2,買掛金管理,かいかけきんかんり,Quản lý khoản nợ phải trả,Accounts Payable Management
+U13,Hội thoại mẫu (モデル会話),3,～側,～がわ,"Bên, phía",Side
+U13,Hội thoại mẫu (モデル会話),4,給与,きゅうよ,Tiền lương,"Payment, Salary"
+U13,Hội thoại mẫu (モデル会話),5,固定小数点,こていしょうすうてん,Dấu thập phân cố định,Fixed - Point
+U13,Hội thoại mẫu (モデル会話),6,参照,さんしょう,Tham chiếu,"Access, Reference"
+U13,Hội thoại mẫu (モデル会話),7,実数型,じっすうがた,Kiểu dữ liệu số thực,Real Data Type
+U13,Hội thoại mẫu (モデル会話),8,仕様書,しようしょ,Tài liệu đặc tả kỹ thuật,Specifications
+U13,Hội thoại mẫu (モデル会話),9,仕訳帳,しわけちょう,Sổ hạch toán,Journal book
+U13,Hội thoại mẫu (モデル会話),10,生産,せいさん,Sản xuất,Production
+U13,Hội thoại mẫu (モデル会話),11,整数型,せいすうがた,Kiểu dữ liệu số nguyên,Integer Type
+U13,Hội thoại mẫu (モデル会話),12,設定,せってい,"Thiết lập, cài đặt","Define, set"
+U13,Hội thoại mẫu (モデル会話),13,手当,てあて,"Phụ cấp, thưởng",Benefits
+U13,Hội thoại mẫu (モデル会話),14,店舗情報管理機能,てんぽじょうほうかんりきのう,Chức năng quản lý thông tin cửa hàng,Retail Information Management Function
+U13,Hội thoại mẫu (モデル会話),15,販売管理機能,はんばいかんりきのう,Chức năng quản lý bán hàng,Sales Management Function
+U13,Hội thoại mẫu (モデル会話),16,浮動小数点,ふどうしょうすうてん,Số thực dấu phẩy động,Floating - Point
+U13,Hội thoại mẫu (モデル会話),17,文字型（キャラクタ）,もじがた（キャラクタ）,Kiểu ký tự,Character Data Type
+U13,Hội thoại mẫu (モデル会話),18,文字列型（ストリング、テキスト）,もじれつがた（ストリング、テキスト）,Kiểu chuỗi,Character String Data Type
+U13,Hội thoại mẫu (モデル会話),19,予想,よそう,Dự đoán,"Projection, Expectation"
+U13,Hội thoại mẫu (モデル会話),20,応募採用管理,おうぼさいようかんり,Quản lý tuyển dụng,Recruitment and Employment Management
+U13,Hội thoại mẫu (モデル会話),21,エラー,エラー,Lỗi,Error
+U13,Hội thoại mẫu (モデル会話),22,キャラクタ,キャラクタ,"Ký tự, nhân vật",Character
+U13,Hội thoại mẫu (モデル会話),23,ショート,ショート,"Ngắn, kiểu dữ liệu số ngắn",Short precision integer
+U13,Hội thoại mẫu (モデル会話),24,シングル,シングル,"Đơn, kiểu dữ liệu đơn",Single precision real number
+U13,Hội thoại mẫu (モデル会話),25,スループット,スループット,"Lưu lượng thông qua, hiệu suất",Throughput
+U13,Hội thoại mẫu (モデル会話),26,ダブル,ダブル,"Đôi, kiểu dữ liệu số thực đôi",Double precision real number
+U13,Hội thoại mẫu (モデル会話),27,マスター,マスター,Bảng điều khiển/quản lý,Master (file)
+U13,Hội thoại mẫu (モデル会話),28,ロング,ロング,"Dài, kiểu dữ liệu số dài",Long precision integer
+U13,Hội thoại mẫu (モデル会話),29,オブジェクト型,オブジェクト型,Kiểu đối tượng,Object Type
+U14,Bài đọc (読み物),1,一通り,ひととおり,Một lượt,"Roughly, in general"
+U14,Bài đọc (読み物),2,これ以上,これいじょう,Hơn nữa / Thêm nữa,"No more, beyond this point"
+U14,Bài đọc (読み物),3,中断,ちゅうだん,"Tạm dừng, gián đoạn","Interruption, suspension"
+U14,Bài đọc (読み物),4,求める,もとめる,Yêu cầu,"To seek, to request"
+U14,Bài đọc (読み物),5,デグレ,でぐれ,Sự suy giảm,Degradation
+U14,Bài đọc (読み物),6,余計,よけい,Thừa thãi / Không cần thiết,"Excessive, unnecessary"
+U14,Bài đọc (読み物),7,必ず,かならず,Nhất định / Bắt buộc,"Definitely, without fail"
+U14,Bài đọc (読み物),8,現象,げんしょう,Hiện tượng,phenomenon
+U14,Bài đọc (読み物),9,最新,さいしん,Mới nhất,"Latest, most up-to-date"
+U14,Bài đọc (読み物),10,チェックアウトする,チェックアウトする,"Kiểm tra, rời khỏi",To check out
+U14,Bài đọc (読み物),11,含める,ふくめる,Bao gồm,To include
+U14,Bài đọc (読み物),12,コミット,コミット,"Ghi nhận, cam kết",Commit
+U14,Bài đọc (読み物),13,デプロイ,デプロイ,Triển khai,Deploy
+U14,Bài đọc (読み物),14,再テスト,さいテスト,Kiểm tra lại,Retesting
+U14,Bài đọc (読み物),15,項目,こうもく,Mục kiểm thử,Item
+U14,Bài đọc (読み物),16,特定,とくてい,"Cụ thể, đặc biệt","Specific, particular"
+U14,Bài đọc (読み物),17,目標,もくひょう,Mục tiêu,"Goal, objective"
+U14,Bài đọc (読み物),18,デバッグ,デバッグ,Sửa lỗi/ Xử lý lỗi,Debugging
+U14,Bài đọc (読み物),19,実際,じっさい,Thực tế,"Actual, in reality"
+U14,Bài đọc (読み物),20,シナリオ,シナリオ,Kịch bản,Scenario
+U14,Bài đọc (読み物),21,運用テスト,うんようテスト,Kiểm thử vận hành,Operational testing
+U14,Bài đọc (読み物),22,端末,たんまつ,Thiết bị kết nối/Thiết bị đầu cuối,"Terminal, device"
+U14,Bài đọc (読み物),23,アクセス,アクセス,Truy cập,Access
+U14,Bài đọc (読み物),24,負荷テスト,ふかテスト,Kiểm thử tải,Load testing
+U14,Bài đọc (読み物),25,登録,とうろく,Đăng ký,Registration
+U14,Bài đọc (読み物),26,適切,てきせつ,"Thích hợp, phù hợp, thích đáng",Appropriate / suitable
+U14,Bài đọc (読み物),27,性能テスト,せいのうテスト,Kiểm thử hiệu năng,Performance testing
+U14,Hội thoại mẫu (モデル会話),1,回帰テスト,かいきテスト,Kiểm thử hồi quy,Regression Test
+U14,Hội thoại mẫu (モデル会話),2,管理者用マニュアル,かんりしゃよマニュアル,Hướng dẫn cho quản trị viên,Administrator Manual
+U14,Hội thoại mẫu (モデル会話),3,構成テスト,こうせいテスト,Kiểm thử cấu hình,Configuration Test
+U14,Hội thoại mẫu (モデル会話),4,最新版,さいしんばん,Phiên bản mới nhất,Latest Version
+U14,Hội thoại mẫu (モデル会話),5,修正,しゅうせい,"Sửa lỗi, điều chỉnh",Fix
+U14,Hội thoại mẫu (モデル会話),6,文書テスト,ぶんしょテスト,Kiểm thử tài liệu,Document Testing
+U14,Hội thoại mẫu (モデル会話),7,保守マニュアル,ほしゅマニュアル,Hướng dẫn bảo trì,Maintenance Manual
+U14,Hội thoại mẫu (モデル会話),8,～用,～よう,Dành cho ~,For ~
+U14,Hội thoại mẫu (モデル会話),9,移行テスト,いこうテスト,Kiểm thử di chuyển,Migration Testing
+U14,Hội thoại mẫu (モデル会話),10,機能テスト,きのうテスト,Kiểm thử chức năng,Functional Testing
+U14,Hội thoại mẫu (モデル会話),11,機密保護テスト,きみつほごテスト,Kiểm thử bảo mật,Security Testing
+U14,Hội thoại mẫu (モデル会話),12,障害回復テスト,しょうがいかいふくテスト,Kiểm thử khôi phục lỗi,Failure Recovery Testing
+U14,Hội thoại mẫu (モデル会話),13,信頼性テスト,しんらいせいテスト,Kiểm thử độ tin cậy,Reliability Testing
+U14,Hội thoại mẫu (モデル会話),14,大容量テスト,だいようりょうテスト,Kiểm thử dung lượng lớn,Volume Testing
+U14,Hội thoại mẫu (モデル会話),15,負荷テスト,ふかテスト,Kiểm thử tải,Load Testing
+U14,Hội thoại mẫu (モデル会話),16,有用度テスト,ゆうようどテスト,Kiểm thử độ hữu dụng,Usability Testing
+U14,Hội thoại mẫu (モデル会話),17,アーカイブ,アーカイブ,"Lưu trữ, bảo quản",Archive
+U14,Hội thoại mẫu (モデル会話),18,オンラインヘルプ,オンラインヘルプ,Trợ giúp trực tuyến,Online Help
+U14,Hội thoại mẫu (モデル会話),19,ストレステスト,ストレステスト,Stress Test,Stress Test
+U14,Hội thoại mẫu (モデル会話),20,チェックイン,チェックイン,"Kiểm tra vào hệ thống, gửi lên hệ thống",Check-in
+U14,Hội thoại mẫu (モデル会話),21,ユーザーチュートリアル,ユーザーチュートリアル,Hướng dẫn người dùng,User Tutorial
+U14,Hội thoại mẫu (モデル会話),22,ユーザーマニュアル,ユーザーマニュアル,Hướng dẫn người dùng,User Manual
+U14,Hội thoại mẫu (モデル会話),23,（バグを）つぶす,（バグを）つぶす,Sửa (lỗi),Fix (a Bug)
+U15,Bài đọc (読み物),1,クライアント,クライアント,Khách hàng,client
+U15,Bài đọc (読み物),2,適正,てきせい,"Thích hợp, phù hợp","suitability, fitness"
+U15,Bài đọc (読み物),3,処理,しょり,"Xử lý, đối xử","processing, handling"
+U15,Bài đọc (読み物),4,手順,てじゅん,"Thủ tục, quy trình","procedure, process"
+U15,Bài đọc (読み物),5,計測,けいそく,"Đo lường, đo đạc","measurement, gauge"
+U15,Bài đọc (読み物),6,特性,とくせい,"Đặc tính, đặc điểm","characteristic, feature"
+U15,Bài đọc (読み物),7,負荷,ふか,"Tải trọng, gánh nặng","load, burden"
+U15,Bài đọc (読み物),8,一斉に,いっせいに,"Đồng loạt, cùng một lúc","simultaneously, all at once"
+U15,Bài đọc (読み物),9,中止する,ちゅうしする,"Hoãn, hủy bỏ","to suspend, to cancel"
+U15,Bài đọc (読み物),10,協力する,きょうりょくする,"Hợp tác, cộng tác","to cooperate, collaborate"
+U15,Bài đọc (読み物),11,送信,そうしん,"Truyền tin, gửi đi","transmission, sending"
+U15,Bài đọc (読み物),12,圧縮,あっしゅく,"Nén, nén lại","compression, compress"
+U15,Bài đọc (読み物),13,表示,ひょうじ,"Hiển thị, biểu thị","display, representation"
+U15,Bài đọc (読み物),14,改善,かいぜん,"Cải thiện, cải tiến","improvement, enhancement"
+U15,Bài đọc (読み物),15,精通する,せいつうする,Thành thạo,"to be proficient, master"
+U15,Bài đọc (読み物),16,コンフリクト,コンフリクト,Xung đột,conflict
+U15,Bài đọc (読み物),17,ロック,ロック,Khoá,"lock, locking"
+U15,Bài đọc (読み物),18,コントロールする,コントロールする,Điều khiển,"to control, manage"
+U15,Bài đọc (読み物),19,起こす,おこす,"Đánh thức, gây ra","to cause, bring about"
+U15,Bài đọc (読み物),20,保証,ほしょう,Bảo đảm,"guarantee, assurance"
+U15,Bài đọc (読み物),21,慎重,しんちょう,"Thận trọng, cẩn thận","careful, cautious"
+U15,Bài đọc (読み物),22,疑問,ぎもん,Nghi ngờ,"question, doubt"
+U15,Bài đọc (読み物),23,懸念,けねん,"Lo lắng, bận tâm","concern, worry"
+U15,Hội thoại mẫu (モデル会話),1,確認ウィンドウ,かくにんウィンドウ,Cửa sổ xác nhận,Confirmation Window
+U15,Hội thoại mẫu (モデル会話),2,警告ウィンドウ,けいこくウィンドウ,Cửa sổ cảnh báo,Alert Window
+U15,Hội thoại mẫu (モデル会話),3,携帯電話,けいたいでんわ,Điện thoại di động,Cellphone
+U15,Hội thoại mẫu (モデル会話),4,同期エラー,どうきエラー,Lỗi đồng bộ hóa,Synchronous Error
+U15,Hội thoại mẫu (モデル会話),5,はがき,,Bưu thiếp,Postcard
+U15,Hội thoại mẫu (モデル会話),6,命令網羅テスト,めいれいもうらテスト,Kiểm thử bao phủ lệnh,Command Coverage Test
+U15,Hội thoại mẫu (モデル会話),7,条件網羅テスト,じょうけんもうらテスト,Kiểm thử bao phủ điều kiện,Condition Coverage Test
+U15,Hội thoại mẫu (モデル会話),8,非同期エラー,ひどうきエラー,Lỗi không đồng bộ,Asynchronous Error
+U15,Hội thoại mẫu (モデル会話),9,分岐網羅テスト,ぶんきもうらテスト,Kiểm thử bao phủ nhánh,Branch Coverage Test
+U15,Hội thoại mẫu (モデル会話),10,文字,もじ,Ký tự,Character
+U15,Hội thoại mẫu (モデル会話),11,エラーメッセージ,,Thông báo lỗi,Error Message
+U15,Hội thoại mẫu (モデル会話),12,オペレーションマニュアル,,Hướng dẫn vận hành,Operation Manual
+U15,Hội thoại mẫu (モデル会話),13,コンパイル時エラー,,Lỗi thời điểm biên dịch,Compile-time Error
+U15,Hội thoại mẫu (モデル会話),14,ブラックボックステスト,,Kiểm thử hộp đen,Black Box Test
+U15,Hội thoại mẫu (モデル会話),15,ホワイトボックステスト,,Kiểm thử hộp trắng,White Box Test
+U15,Hội thoại mẫu (モデル会話),16,ランタイムエラー,,Lỗi thời gian chạy,Runtime Error
+U15,Hội thoại mẫu (モデル会話),17,リファレンスマニュアル,,Hướng dẫn tham khảo,Reference Manual
+U15,Hội thoại mẫu (モデル会話),18,インストールマニュアル,,Hướng dẫn cài đặt,Installation Manual
+U15,Hội thoại mẫu (モデル会話),19,スタックオーバーラン,,Tràn ngăn xếp,Stack Overrun
+U15,Hội thoại mẫu (モデル会話),20,セキュリティテスト,,Kiểm thử bảo mật,Security Test
+U15,Hội thoại mẫu (モデル会話),21,バッファオーバーラン,,Tràn bộ đệm,Buffer Overrun
+U15,Hội thoại mẫu (モデル会話),22,ヒープオーバーラン,,Tràn bộ nhớ,Heap Overrun
+U15,Hội thoại mẫu (モデル会話),23,メッセンジャー,,Ứng dụng nhắn tin,Messenger
+U15,Hội thoại mẫu (モデル会話),24,ユーザビリティテスト,,Kiểm thử độ hữu dụng,Usability Test
+U15,Hội thoại mẫu (モデル会話),25,～したまま,,"Nguyên trạng, không thay đổi",Kept as is
+U16,Bài đọc (読み物),1,オペレーションデモ,オペレーションデモ,bài thử nghiệm hoạt động,operation demo
+U16,Bài đọc (読み物),2,運用,うんよう,vận hành,operation
+U16,Bài đọc (読み物),3,簡易的,かんいてき,đơn giản,simple
+U16,Bài đọc (読み物),4,動かす,うごかす,di chuyển,to move
+U16,Bài đọc (読み物),5,持ち運ぶ,もちはこぶ,mang theo,to carry
+U16,Bài đọc (読み物),6,小型,こがた,kích thước nhỏ,small size
+U16,Bài đọc (読み物),7,クラウドシステム,クラウドシステム,hệ thống đám mây,cloud system
+U16,Bài đọc (読み物),8,用いる,もちいる,sử dụng,to use
+U16,Bài đọc (読み物),9,小規模,しょうきぼ,quy mô nhỏ,small scale
+U16,Bài đọc (読み物),10,マスタ,マスタ,"chủ thể, dữ liệu gốc, dữ liệu chuẩn, bậc thầy",master
+U16,Bài đọc (読み物),11,移行,いこう,"chuyển đổi, di chuyển",migration
+U16,Bài đọc (読み物),12,形式,けいしき,hình thức,form
+U16,Bài đọc (読み物),13,取り込む,とりこむ,"nhập, lấy (dữ liệu), thu hút, hòa nhập, hấp thụ",to incorporate
+U16,Bài đọc (読み物),14,コンバート,コンバート,chuyển đổi,to convert
+U16,Bài đọc (読み物),15,構造,こうぞう,cấu trúc,structure
+U16,Bài đọc (読み物),16,クレンジング,クレンジング,làm sạch,cleansing
+U16,Bài đọc (読み物),17,整合性,せいごうせい,tính toàn vẹn,integrity
+U16,Bài đọc (読み物),18,整える,ととのえる,sắp xếp,to arrange
+U16,Bài đọc (読み物),19,稼働,かどう,hoạt động,operation
+U16,Bài đọc (読み物),20,解決,かいけつ,giải quyết,solution
+U16,Bài đọc (読み物),21,正常に,せいじょうに,bình thường,normally
+U16,Bài đọc (読み物),22,想定,そうてい,giả định,assumption
+U16,Bài đọc (読み物),23,分割,ぶんかつ,phân chia,division
+U16,Bài đọc (読み物),24,並行,へいこう,song song,parallel
+U16,Bài đọc (読み物),25,調整する,ちょうせいする,điều chỉnh,to adjust
+U16,Bài đọc (読み物),26,練習,れんしゅう,luyện tập,practice
+U16,Bài đọc (読み物),27,リハーサル,リハーサル,diễn tập,rehearsal
+U16,Bài đọc (読み物),28,適切,てきせつ,phù hợp,appropriate
+U16,Bài đọc (読み物),29,過不足,かふそく,"sự thừa thiếu, sự sai lệch về lượng, không đủ chính xác (có thể thừa hoặc thiếu)",adequacy
+U16,Hội thoại mẫu (モデル会話),1,移行,いこう,"Chuyển đổi, Di chuyển",Migration
+U16,Hội thoại mẫu (モデル会話),2,～かなあ,,～ đây nhỉ?!,I wonder if ~
+U16,Hội thoại mẫu (モデル会話),3,先,さき,Vừa rồi,A short while ago
+U16,Hội thoại mẫu (モデル会話),4,持参,じさん,Mang theo,"Bring, Take"
+U16,Hội thoại mẫu (モデル会話),5,実際,じっさい,"Thực tế, hiện thực",Actually
+U16,Hội thoại mẫu (モデル会話),6,体験,たいけん,Trải nghiệm,Experience
+U16,Hội thoại mẫu (モデル会話),7,無事に,ぶじに,"Vô sự, không vấn đề",Without Problem
+U16,Hội thoại mẫu (モデル会話),8,アニメーション,,Animation,Animation
+U16,Hội thoại mẫu (モデル会話),9,エクストリームプログラミング,,Extreme Programming,Extreme Programming
+U16,Hội thoại mẫu (モデル会話),10,エクセル,,Excel,Excel (software)
+U16,Hội thoại mẫu (モデル会話),11,オペレーションデモ,,Bản giới thiệu hoạt động,Operation Demonstration
+U16,Hội thoại mẫu (モデル会話),12,（データ）クレンジング,,Làm sạch dữ liệu,(Data) Cleansing
+U16,Hội thoại mẫu (モデル会話),13,（データ）コンバート,,Chuyển đổi dữ liệu,(Data) Convert
+U16,Hội thoại mẫu (モデル会話),14,スライドショー,,Trình chiếu slide,Slideshow
+U16,Hội thoại mẫu (モデル会話),15,パワーポイント,,PowerPoint,PowerPoint (software)
+U16,Hội thoại mẫu (モデル会話),16,フォーマット,,Định dạng,Format
+U16,Hội thoại mẫu (モデル会話),17,ユーザー教育,ユーザーきょういく,Đào tạo người dùng,User Training
+U16,Hội thoại mẫu (モデル会話),18,ワード,,Microsoft Word,Word (software)
+U16,Hội thoại mẫu (モデル会話),19,テーマ,,Chủ đề,"Theme, Topic"
+U16,Hội thoại mẫu (モデル会話),20,テンプレート,,"Mẫu, bản mẫu",Template
+U16,Hội thoại mẫu (モデル会話),21,プレゼンテーション,,Bài thuyết trình,Presentation
+U16,Hội thoại mẫu (モデル会話),22,ロゴ入り,,Có logo kèm theo,With a Logo
+U16,Hội thoại mẫu (モデル会話),23,入れ替える,いれかえる,"Đổi, thay đổi",Replace
